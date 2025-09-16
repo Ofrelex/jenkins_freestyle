@@ -1,2 +1,1 @@
-# jenkins_freestyle
-Jenkins Freestyle Project
+# Jenkins Freestyle Project
